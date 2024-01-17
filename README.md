@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @DEEP-op
-- 👀 I’m interested in ethical hacking
-- 🌱 I’m currently learning kali linux
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Samardeep Singh
+- 👀 I’m interested in Full stack Development
+- 🌱 I’m currently learning Java and DSA
+- 💞️ I’m looking for a JOB
+- 📫 How to reach me email me at samarrajpal25@gmail.com or at my mentioned linkedIN
 
 <!---
 DEEP-op/DEEP-op is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
